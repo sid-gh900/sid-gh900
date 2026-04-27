@@ -19,11 +19,11 @@ Welcome to my GitHub profile! I am an aspiring software developer passionate abo
 
 ## 🌱 Current Learning Path (My Goals)
 Here is a task list tracking my current developer journey:
-- [] Master HTML5, CSS3, and responsive design
+- [ ] Master HTML5, CSS3, and responsive design
 - [x] Learn Vanilla JavaScript (DOM manipulation, ES6+)
-- [] Build and deploy a personal portfolio website
+- [ ] Build and deploy a personal portfolio website
 - [x] Master Git and GitHub workflows
-- [] Build a game using HTML
+- [ ] Build a game using HTML
 - [x] Make my first pull request to an repository
 
 ## 🛠️ Tech Stack & Tools
