@@ -1,5 +1,7 @@
 <!-- Hi there! This is a hidden Markdown comment. It won't show up on your actual GitHub profile page, but it's great for leaving notes for yourself. Reminder: Update the "Current Learning Path" section every month! -->
 
+### exploring github desktop app
+
 # Hi there, I'm Siddharth! 👋
 > _"First, solve the problem. Then, write the code."_ – **John Johnson**
 
